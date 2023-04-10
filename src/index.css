@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+
+#header{
+    background-color: black;
+    height: 10vh;
+    color: rgb(238, 238, 238);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 100px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
