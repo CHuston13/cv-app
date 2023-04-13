@@ -1,16 +1,26 @@
+
 body{
     margin: 0;
     padding: 0;
 }
-
-
 #header{
+  
     background-color: black;
-    height: 10vh;
+    width: 100vw;
+    height: 20vh;
     color: rgb(238, 238, 238);
-    display: flex;
+   display: flex;
     justify-content: center;
     align-items: center;
     font-size: 100px;
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+    position: absolute;
+    
+}
+
+
+#label-container{
+  
+    position: absolute;
+    padding-top: 20vh;
 }
